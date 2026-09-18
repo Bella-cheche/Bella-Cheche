@@ -1,8 +1,8 @@
-# Hi, I'm Mabel Enyi 👋
+# Hi, I'm Mabel Chekwube Enyi 👋
 
-### Junior Data Analyst | Excel | SQL | Power BI | Data Modeling
+### Data Analyst | Helping Business Strive Through Data-Backed Decisions 
 
-I’m a Biochemistry graduate and a Junior Data Analyst with hands-on experience in data cleaning, exploratory analysis, SQL, Excel, Power BI, and data modeling.
+I am a Data Analyst with hands-on experience in data cleaning, exploratory analysis, SQL, Excel, Power BI, and data modeling.
 
 My background in sales and business operations has helped me develop a practical understanding of how data connects to everyday business decisions. I enjoy taking raw and sometimes messy data, finding the story within it, and turning my findings into clear insights and useful dashboards.
 
